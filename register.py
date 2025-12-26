@@ -1,4 +1,4 @@
-#User Registration Signin Signup
+#User Registration -> Sign-in/Sign-up
 from customer import *
 from bank import Bank
 import random
